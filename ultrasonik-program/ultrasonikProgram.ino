@@ -10,7 +10,6 @@
 #define TRIG4 13
 #define ECHO4 12
 
-
 struct distanceSet {
   float very_close;
   float close;
